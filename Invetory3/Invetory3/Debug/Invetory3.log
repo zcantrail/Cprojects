@@ -1,0 +1,6 @@
+﻿  Invetory3.cpp
+f:\visual studios\source\repos\invetory3\invetory3\invetory3.cpp(86): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+f:\visual studios\source\repos\invetory3\invetory3\invetory3.cpp(76): warning C4101: 'badStock': unreferenced local variable
+f:\visual studios\source\repos\invetory3\invetory3\invetory3.cpp(80): warning C4101: 'badQuantity': unreferenced local variable
+f:\visual studios\source\repos\invetory3\invetory3\invetory3.cpp(84): warning C4101: 'badPrice': unreferenced local variable
+  Invetory3.vcxproj -> F:\Visual Studios\Source\repos\Invetory3\Debug\Invetory3.exe

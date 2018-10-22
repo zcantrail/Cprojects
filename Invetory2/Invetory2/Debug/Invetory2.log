@@ -1,0 +1,6 @@
+﻿  Invetory2.cpp
+c:\users\zac\source\repos\invetory2\invetory2\invetory2.cpp(87): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\zac\source\repos\invetory2\invetory2\invetory2.cpp(76): warning C4101: 'badStock': unreferenced local variable
+c:\users\zac\source\repos\invetory2\invetory2\invetory2.cpp(81): warning C4101: 'badQuantity': unreferenced local variable
+c:\users\zac\source\repos\invetory2\invetory2\invetory2.cpp(85): warning C4101: 'badPrice': unreferenced local variable
+  Invetory2.vcxproj -> C:\Users\Zac\source\repos\Invetory2\Debug\Invetory2.exe

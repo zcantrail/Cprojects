@@ -1,0 +1,7 @@
+F:\Visual Studios\Source\repos\GradeScale\ZacharyCantrell-Assessment4\obj\Debug\ZacharyCantrell-Assessment4.csprojResolveAssemblyReference.cache
+F:\Visual Studios\Source\repos\GradeScale\ZacharyCantrell-Assessment4\obj\Debug\ZacharyCantrell-Assessment4.csproj.CoreCompileInputs.cache
+F:\Visual Studios\Source\repos\GradeScale\ZacharyCantrell-Assessment4\bin\Debug\ZacharyCantrell-Assessment4.exe.config
+F:\Visual Studios\Source\repos\GradeScale\ZacharyCantrell-Assessment4\bin\Debug\ZacharyCantrell-Assessment4.exe
+F:\Visual Studios\Source\repos\GradeScale\ZacharyCantrell-Assessment4\bin\Debug\ZacharyCantrell-Assessment4.pdb
+F:\Visual Studios\Source\repos\GradeScale\ZacharyCantrell-Assessment4\obj\Debug\ZacharyCantrell-Assessment4.exe
+F:\Visual Studios\Source\repos\GradeScale\ZacharyCantrell-Assessment4\obj\Debug\ZacharyCantrell-Assessment4.pdb
